@@ -16,8 +16,5 @@ Editing html file so that it follows accessibilty standards.
 
 * **Alisha Pal** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- [Link to Github](https://github.com/apal96)
+- [Link to LinkedIn](linkedin.com/in/alisha-pal-6635361b5)
